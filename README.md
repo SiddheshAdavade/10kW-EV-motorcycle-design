@@ -1,6 +1,8 @@
 # ⚡10kW-EV-motorcycle-design
 This repository shows an early EV motorcycle design project where I explored electric powertrain integration and mechanical design.  Although this project was done earlier in my learning, it shows how I approach basics like Electronic component sizing &amp; selection, MATLAB simulation and CAD design. 
 
+<img width="2160" height="1080" alt="E Cafe Racer 313" src="https://github.com/user-attachments/assets/74796d8c-44e4-43d0-abb0-0b9bbe3628ee" />
+
 ## 🚀 Key Specifications
 
 * Motor: 10 kW BLDC 
